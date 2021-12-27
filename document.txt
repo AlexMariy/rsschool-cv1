@@ -1,1 +1,2 @@
-First read file doc.txt
+
+First read file doc.txt and file README
