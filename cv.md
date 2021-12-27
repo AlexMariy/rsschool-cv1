@@ -1,21 +1,21 @@
-###Mariya Alexeeva
+### Mariya Alexeeva
 ----
-####Контакты: 
+#### Контакты: 
 * Phone: 89994514436
 * Email: alekseeva.maria1910@gmail.com
 * GitHub: AlexMariy
 --- 
-####About me
+#### About me
 
 * At the moment, I work in software technical support, write documentation, prioritize tasks, negotiate deadlines with the development department, smog logs, look for bugs in the program's production environment, use SQL to unload from the database, and much more. Also interested in software development, studying JS and Python.
 ---
-####Skills 
+#### Skills 
 * Git
 * HTML
 * JS
 * CSS
 ---
-####Sample Code
+#### Sample Code
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -39,7 +39,7 @@
 </html>
 ```
 ---
-####Education
+#### Education
 * Novosibirsk State Technical University
 Faculty of Radio Engineering and Electronics Direction Infocommunication Technologies and Communication Systems
 ---
