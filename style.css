@@ -1,0 +1,14 @@
+body{
+    box-sizing: border-box;
+    color: rgb(0, 82, 82);
+    background-color: rgba(86, 165, 165, 0.5);
+    }
+
+.nav {
+margin-top: 0px;
+font-size: large;
+font-style: italic;
+}
+.photo{
+    border-radius:30px;
+    }
