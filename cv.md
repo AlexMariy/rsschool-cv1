@@ -42,3 +42,5 @@ Faculty of Radio Engineering and Electronics Direction Infocommunication Technol
 ---
 #### English 
 * Intermediate (B1)
+
+[![RS SCHOOL](https://rs.school/images/rs_school_js.svg)](https://rs.school/js/ )
